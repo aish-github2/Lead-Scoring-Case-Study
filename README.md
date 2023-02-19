@@ -19,7 +19,7 @@ Industry professionals can purchase online courses from X Education, a company t
 
 ## Details of files given
 
-* Lead Score Case Study Aayushi Meenu .ipynb : The python file showing coding and data analysis
+* Lead Score Case Study_Aishwarya arun .ipynb : The python file showing coding and data analysis
 * Assignment Subjective Questions.pdf : Some subjective questions answered
 * Lead Score Case Study.pdf : Final Presentation
 * Leads.csv : Data worked on
