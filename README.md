@@ -5,7 +5,7 @@ Industry professionals can purchase online courses from X Education, a company t
 
 ## Steps Followed
 
-“*”Reading Data
+“*” Reading Data
 “*”Cleaning Data
 “*”EDA
 “*”Creating Dummy
