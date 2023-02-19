@@ -17,7 +17,7 @@ Industry professionals can purchase online courses from X Education, a company t
 * Prediction on test set
 * Precision- Recall
 
-##Details of files given
+## Details of files given
 
 * Lead Score Case Study Aayushi Meenu .ipynb : The python file showing coding and data analysis
 * Assignment Subjective Questions.pdf : Some subjective questions answered
